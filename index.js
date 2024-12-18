@@ -1,1 +1,1 @@
-this is java scrip
+this is java script
